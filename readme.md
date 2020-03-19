@@ -15,6 +15,8 @@ A API responsável retorna uma lista de recomendações e uma lista de filtros a
 
 [Imagem 04](https://github.com/carlinhah/movie-recomendations/blob/master/IMG04.jpg)
 
+[Imagem 05](https://github.com/carlinhah/movie-recomendations/blob/master/IMG05.jpg)
+
 A API contém as seguintes rotas:
 
 ## / Recommendations
