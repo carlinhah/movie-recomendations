@@ -7,6 +7,8 @@
 
 A API responsável retorna uma lista de recomendações e uma lista de filtros a serem usados no aplicativo cliente.
 
+
+
 A API contém as seguintes rotas:
 
 ## / Recommendations
@@ -59,10 +61,7 @@ O sistema foi construído com base no algoritmo [KNN](https://www.linkedin.com/p
 Para representar as recomendações para um usuário, um aplicativo da web foi desenvolvido. Onde, o usuário pode selecionar muitos filtros (com base no conteúdo do conjunto de dados) e, após um clique em "Filtro", a API retorna uma lista de recomendações com base nas preferências do usuário ou nula (quando nada atinge o Preferências de usuário).
 
 ## A implantação
+Não foi possível implantar, pois estava dando erro ao subir o projeto.
 
-Para implantar, a plataforma [Heroku](https://www.heroku.com/) foi usada. Abaixo os URLs da API e do aplicativo Cliente são informados.
-
-## API:
-
-
-## CLIENTE:
+## Link de uma consulta filmada localmente, por impossibilidade de colocar a API no ar.
+https://youtu.be/vHIjSVz8O0c
