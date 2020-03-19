@@ -61,7 +61,7 @@ O sistema foi construído com base no algoritmo [KNN](https://www.linkedin.com/p
 Para representar as recomendações para um usuário, um aplicativo da web foi desenvolvido. Onde, o usuário pode selecionar muitos filtros (com base no conteúdo do conjunto de dados) e, após um clique em "Filtro", a API retorna uma lista de recomendações com base nas preferências do usuário ou nula (quando nada atinge o Preferências de usuário).
 
 ## A implantação
-Não foi possível implantar, pois estava dando erro ao subir o projeto.
+Não foi possível implantar, pois estava dando erro ao subir o projeto no Heroku.
 
 ## Link de uma consulta filmada localmente, por impossibilidade de colocar a API no ar.
 https://youtu.be/vHIjSVz8O0c
