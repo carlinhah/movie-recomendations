@@ -7,7 +7,7 @@
 
 A API responsável retorna uma lista de recomendações e uma lista de filtros a serem usados no aplicativo cliente.
 
-
+[Imagem 01] (https://github.com/carlinhah/movie-recomendations/blob/master/20200319_121859.jpg)
 
 A API contém as seguintes rotas:
 
